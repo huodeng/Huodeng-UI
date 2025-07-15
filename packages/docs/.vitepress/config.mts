@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Huodeng-Ui",
-  base: '/huodeng-ui/',
+  base: '/Huodeng-UI/',
   description: "仿B站Eric",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
